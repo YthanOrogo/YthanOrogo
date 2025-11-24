@@ -18,15 +18,30 @@ I am a second-year Computer Science student at New Era University, interested in
 | [OCI AI Foundation Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7833535&trackId=OCI25AICFA&key=ab9fdcd732e1f5731a19135040850bb5e5ce274e) | Oracle University | Nov 2025 |
 | [Introduction to Cybersecurity](https://www.credly.com/badges/c2739f01-64ad-4644-be10-c02092a35960/public_url) | Cisco | Nov 2025 |
 
-
 ## 🛠 Skill Sets 
 - **Programming Languages:** Java, SQL, Python, HTML, CSS)
 - **Databases:** IBM DB2 Cloud
 - **Frameworks & Tools:** Lucidchart, Canva Education, Obsidian
 - **DevTools**: Visual Studio Code, Microsoft Office
 
-## 🌐 Connect With Me
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ythanorogo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythanorogo&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ythanorogo&theme=react-dark&radius=10" />
+</p>
+
+## Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="www.linkedin.com/in/ythan-clarke-d-orogo-739014339">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
@@ -35,14 +50,6 @@ I am a second-year Computer Science student at New Era University, interested in
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
-
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
 
 <p align="center">
   <sub>Always learning. Always improving.</sub>
