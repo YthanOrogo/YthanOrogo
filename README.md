@@ -17,7 +17,7 @@ I am a second-year Computer Science student at New Era University, interested in
 | [SQL and Relational Database 101](https://courses.cognitiveclass.ai/certificates/e8c1b8e863da455fb27adbde7234757e) | Cognitive Class (IBM) | Nov 2025 |
 | [OCL Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7833535&trackId=OCI25FNDCFA&key=a7694252fa7cd087d9d5ce2fc65e3d42346e2939) | Oracle University | Nov 2025 |
 | [OCL AI Foundation Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7833535&trackId=OCI25AICFA&key=ab9fdcd732e1f5731a19135040850bb5e5ce274e) | Oracle University | Nov 2025 |
-| [OCL  Foundation Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BF4562EAC49DD5D7D65628C225EB8B05011C23464FF431873AFD54DBA2A0B7F4) | Oracle University | Dec 2025 |
+| [OCL Data Platform Foundation Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BF4562EAC49DD5D7D65628C225EB8B05011C23464FF431873AFD54DBA2A0B7F4) | Oracle University | Dec 2025 |
 
 ## 🛠 Skill Sets 
 - **Programming Languages:** Java, SQL, Python, HTML, CSS)
